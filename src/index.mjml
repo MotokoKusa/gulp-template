@@ -1,0 +1,9 @@
+<mjml>
+    <mj-include path="scss/style.scss" type="css"/>
+    <mj-include path="components\head.mjml"/>
+    <mj-body>
+        <mj-include path="components\header.mjml"/>
+        <mj-include path="components\s_main.mjml"/>
+<!--        <mj-include path="js/app.js"/>-->
+    </mj-body>
+</mjml>
